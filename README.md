@@ -13,7 +13,8 @@ CAROLINA GARAY
 Data Scientist | Data Analyst | Data Engineer | Astrophysicist
 </h2>
 
-- 👯 I’m looking to collaborate on Data Science
+- I studied Data Science at [Henry](https://www.soyhenry.com/) and Astrophysicist at [UNSJ](https://www.unsj.edu.ar/)
+- I’m looking to collaborate on Data Science
 
 ### 🛠 &nbsp;Tech Stack and Tools
 ![C](https://img.shields.io/badge/C-00599C?style=flat&labelColor=00599C&logoColor=white)
