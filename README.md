@@ -15,7 +15,33 @@ Data Scientist | Data Analyst | Data Engineer | Astrophysicist
 
 - 👯 I’m looking to collaborate on Data Science
 
-### 🛠 &nbsp;Tech Stack 
-- Languages: ![C](https://img.shields.io/badge/C-00599C?style=flat&labelColor=00599C&logoColor=white)
- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=flat)
+### 🛠 &nbsp;Tech Stack and Tools
+![C](https://img.shields.io/badge/C-00599C?style=flat&labelColor=00599C&logoColor=white)
+ ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=flat) 
+ ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+  ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)
+  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+  ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+  ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-05122A?style=flat&logo=apachehadoop)
+  ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-05122A?style=flat&logo=hive)
+  ![PowerBI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn&logoColor=white)
+  ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
+  ![Excel](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=flat&logo=microsoft%20excel)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
+  ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
+  ![scikitlearn](https://img.shields.io/badge/-Scikit%20learn-05122A?style=flat&logo=scikitlearn)
+  ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)
+  ![spaCy](https://img.shields.io/badge/-spaCy-05122A?style=flat&logo=spacy)
+  ![NLTK](https://img.shields.io/badge/-NLTK-05122A?style=flat&logo=nltk)
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+  ![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+  ![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)
+  ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-05122A?style=flat&logo=google%20cloud&logoColor=white)
+  
 
