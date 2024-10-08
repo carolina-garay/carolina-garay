@@ -1,6 +1,6 @@
 <!-- GIF -->
 <picture> 
-  <img alt="Data" src="soneto_shakespeare.jpeg" width="100%" > 
+  <img alt="Data" src="soneto_shakespeare.jpeg" width="50%" > 
 </picture>
 
 <h1 align="center"> Welcome! </h1> 
