@@ -5,7 +5,7 @@
 <h1 align="center"> Welcome! </h1> 
 
 <h2 align="center">
-CAROLINA GARAY
+CAROLINA DEL VALLE GARAY
 </h2>
 
 <h2 align="center">
@@ -44,5 +44,7 @@ Data Scientist | Data Analyst | Data Engineer | Astrophysicist
   ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-  ## Contact Me
+  ### Contact Me
+  ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white) : cdvgaray@gmail.com
+
 
