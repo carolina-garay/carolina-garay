@@ -31,7 +31,7 @@ Data Scientist | Data Analyst | Data Engineer | Astrophysicist
   ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn&logoColor=white)
   ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
   ![Excel](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=flat&logo=microsoft%20excel)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
   ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
