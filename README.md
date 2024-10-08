@@ -1,6 +1,6 @@
 <!-- NUBE -->
 <p align="center">
-  <img src="soneto_shakespeare.jpeg" alt="Logo del Proyecto"  width="70%">
+  <img src="soneto_shakespeare.jpeg" alt="Logo del Proyecto"  width="50%">
 </p>
 <h1 align="center"> Welcome! </h1> 
 
