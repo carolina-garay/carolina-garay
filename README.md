@@ -4,6 +4,14 @@
 </picture>
 
 <h1 align="center"> Welcome! </h1> 
+
+<h2 align="center">
+CAROLINA GARAY
+</h2>
+
+<h2 align="center">
+Data Scientist | Data Analyst | Data Engineer | Astrophysicist
+</h2>
 <h4 align="center"> Carolina Garay -  Data Scientist </h4> 
 - 👯 I’m looking to collaborate on Data Science
 
