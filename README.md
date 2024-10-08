@@ -31,7 +31,6 @@ Data Scientist | Data Analyst | Data Engineer | Astrophysicist
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn&logoColor=white)
   ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
-  ![Excel](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=flat&logo=microsoft%20excel)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
   ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab)
@@ -42,7 +41,9 @@ Data Scientist | Data Analyst | Data Engineer | Astrophysicist
   ![NLTK](https://img.shields.io/badge/-NLTK-05122A?style=flat&logo=nltk)
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
   ![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-  ![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)
-  ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-05122A?style=flat&logo=google%20cloud&logoColor=white)
+  ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
   
 
