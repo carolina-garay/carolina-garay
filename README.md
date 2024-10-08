@@ -20,7 +20,7 @@ Data Scientist | Data Analyst | Data Engineer | Astrophysicist
  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=flat) 
  ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)
-  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
   ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
