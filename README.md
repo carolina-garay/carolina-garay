@@ -18,8 +18,8 @@ Data Scientist | Data Analyst | Data Engineer | Astrophysicist
 ### 🛠 &nbsp;Tech Stack and Tools
 ![C](https://img.shields.io/badge/C-00599C?style=flat&labelColor=00599C&logoColor=white)
  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=flat) 
- ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
-  ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)
+ ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
   ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
