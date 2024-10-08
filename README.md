@@ -1,4 +1,4 @@
-<!-- GIF -->
+<!-- NUBE -->
 <picture> 
   <img alt="Data" src="soneto_shakespeare.jpeg" width="70%" > 
 </picture>
@@ -12,7 +12,7 @@ CAROLINA GARAY
 <h2 align="center">
 Data Scientist | Data Analyst | Data Engineer | Astrophysicist
 </h2>
-<h4 align="center"> Carolina Garay -  Data Scientist </h4> 
+
 - 👯 I’m looking to collaborate on Data Science
 
 ### 🛠 &nbsp;Tech Stack 
