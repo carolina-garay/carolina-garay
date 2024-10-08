@@ -3,7 +3,4 @@
 - 👯 I’m looking to collaborate on Data Science
 
 ### 🛠 &nbsp;Tech Stack 
-- 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+- Languages: ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
